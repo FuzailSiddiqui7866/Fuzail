@@ -376,3 +376,4 @@ def broadcast_message(message):
 
 bot.polling()
 #By @REDMOON309  @REDMOON309
+python3 m.py
